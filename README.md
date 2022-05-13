@@ -3,8 +3,8 @@
 <h2>Profile</h2>
 <div>
   <a href="https://github.com/dougpsantos">
-   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dougpsnts&layout=compact&langs_count=7&theme=radical" width="480"/>
-   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=dougpsnts&show_icons=true&theme=radical&include_all_commits=true&count_private=true" width="480"/>
+   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dougpsnts&layout=compact&langs_count=7&theme=dracula" width="480"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=dougpsnts&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" width="480"/>
 </div>
 <h2>My Techs</h2>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40" /> 
