@@ -2,7 +2,7 @@
 <h2> I'm a front-end developer</h2>
 <h2>Profile</h2>
 <div>
-  <a href="https://github.com/dougpsantos">
+  <a href="https://github.com/dougpsnts">
    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dougpsnts&layout=compact&langs_count=7&theme=dracula" width="480"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=dougpsnts&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" width="480"/>
 </div>
