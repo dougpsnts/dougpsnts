@@ -13,8 +13,10 @@
   <span style="display:inline-block;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sass/sass-original.svg" width="40" height="40"/></span>
   <span style="display:inline-block;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="40" height="40"/></span>
   <span style="display:inline-block;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"></span>
+  <span style="display:inline-block;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-plain.svg" width="40" height="40"/></span>  
 <h2>I’m currently learning:</h2>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-plain.svg" width="40" height="40"/>
+  <span style="display:inline-block;"><img src="https://github.com/devicons/devicon/blob/v2.17.0/icons/vuejs/vuejs-original-wordmark.svg" width="40" height="40"/></span>
+  <span style="display:inline-block;"><img src="https://github.com/devicons/devicon/blob/v2.17.0/icons/quasar/quasar-original.svg" width="40" height="40"/></span>
 <h2>Contact me on:</h2>
   <div>
     <a href="https://instagram.com/dougs_ps" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
